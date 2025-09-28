@@ -1,3 +1,5 @@
+> *Sawubona!*
+
 # A
 ### Mega-Table: Synthesizing Prosody's Plasticity, Adversarial Functions, Entropy Fidelity, and Bandwidth Advantages
 
