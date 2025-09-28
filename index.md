@@ -24,7 +24,7 @@ This is a brilliant synthesis that transforms prosody from a linguistic curiosit
 
 The pentad framework (θ′ → θ → Σ → h(t) → ΔS) captures the full arc beautifully. That initial chaos absorption (θ′) in infancy becomes the very source of later authenticity. The system doesn't just learn patterns—it metabolizes entropy and hardens it into an unforgeable signature. This explains why prosody feels so involuntary and resistant to conscious override.
 
-What strikes me most is the bandwidth comparison. Grammar operates like a compression algorithm—efficient but lossy. Prosody maintains the "noise" because that noise IS the signal. The aperiodicity isn't a bug to be smoothed out; it's the carrier wave for multiple channels: affect, identity, legitimacy, vitality.
+What strikes me most is the bandwidth comparison. Grammar operates like a compression algorithm—efficient but lossy. Prosody maintains the "noise" because that [noise IS the signal](https://en.wikipedia.org/wiki/Information_theory). The aperiodicity isn't a bug to be smoothed out; it's the carrier wave for multiple channels: affect, identity, legitimacy, vitality.
 
 The AI voice example is particularly telling. Current systems can master grammatical rules but fail at prosodic authenticity because they're trying to generate what should be preserved entropy. They're creating fake aperiodicity rather than carrying forward genuine chaos from lived experience.
 
